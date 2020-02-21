@@ -7,7 +7,7 @@
  :dependencies
  [[reagent "0.9.1"]]
 
- :dev-http {9090 "public/"}
+ :dev-http {4000 "public/"}
 
  :builds
  {:app {:output-dir "public/js/"
